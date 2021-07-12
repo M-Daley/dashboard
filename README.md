@@ -1,6 +1,6 @@
 # Dashboard Demo
 
-![Demo](https://stark-escarpment-39738.herokuapp.com/)
+[Demo](https://stark-escarpment-39738.herokuapp.com/)
 
 ![Dashboard Preview](./preview.png)
 
